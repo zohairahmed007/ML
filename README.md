@@ -1,0 +1,2 @@
+# ml
+Zohair Here ! This Machine Learning with Python course dives into the basics of machine learning using Python, an approachable and well-known programming language. You'll learn about supervised vs. unsupervised learning, look into how statistical modeling relates to machine learning, and do a comparison of each.  We'll explore many popular algorithms including Classification, Regression, Clustering, and Dimensional Reduction and popular models such as Train/Test Split, Root Mean Squared Error (RMSE), and Random Forests. 
