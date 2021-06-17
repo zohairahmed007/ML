@@ -2,9 +2,16 @@ import  pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_columns', None)
+
 df=pd.read_csv("carprices.csv")
 df.head()
 df.shape
+
+
+df.isna().sum()
+df=df.fillna(df.mean().round())
 
 
 plt.xlabel("Mileage")
