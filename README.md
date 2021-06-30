@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%"  src="assets/machine_learning_workshop.png" alt="cover" />
+<img width="100%"  src="assets/Zohair_ML_Workshop_compress.jpg" alt="cover" />
 </div>
 
 
